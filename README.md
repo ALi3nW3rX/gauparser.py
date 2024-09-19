@@ -1,4 +1,3 @@
-# gauparser.py
 # URL Status Checker
 
 A Python script to parse, validate, and filter a list of URLs from a text file. The script checks if the URLs return a valid HTTP status code and filters out unwanted URLs based on file extensions and patterns.
